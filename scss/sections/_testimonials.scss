@@ -4,6 +4,7 @@
 .testimonials {
   position: relative;
   padding: 0;
+
   @include gradient;
 
   &__card {
